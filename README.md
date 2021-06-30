@@ -1,2 +1,2 @@
 # MachineLearningJupyterNotebook
-Learning Machine Learning with some interesting ProjectsS
+Learning Machine Learning with some interesting Projects
